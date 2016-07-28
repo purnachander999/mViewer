@@ -4,7 +4,7 @@ in a simpler and user-friendly way.
 
 ## mViewer-v0.9.2 - Beta 
   
-### Whats new in mViewer-v0.9.2 ?
+### Whats new in mViewer-v0.9.2 ??
    1. Enhanced Query Executor with support for executing queries on databases & collections including Map Reduce & aggregation queries.
    2. Enhanced command spotlight with better keyboard navigation even to menu items
    3. Support for managing Database users
